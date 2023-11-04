@@ -28,4 +28,6 @@ Qual é o OUI para VLAN 1?
 Com base nessa OUI, qual é o nome do fornecedor?
   R: Cisco Systems, Inc
 O que significa bia?
-  R:
+  R: burned-in address
+Por que a saída indica o mesmo endereço MAC duas vezes? 
+  R: 
